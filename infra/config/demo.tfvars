@@ -1,0 +1,5 @@
+subscription_id = "63a667d1-04c8-4c0a-bb9d-f3088d4e79d6"
+location = "eastus2"
+environment = "dev"
+terraform_service_principal = "PMC-Develop002"
+name_suffix = "dev002"
