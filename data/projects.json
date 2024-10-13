@@ -1,0 +1,63 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Nebula Nexus",
+            "description": "Development of a sustainable underwater energy harvesting system.",
+            "status": "Active"
+        },
+        {
+            "id": 2,
+            "name": "Aquaflare Initiative",
+            "description": "Development of a sustainable underwater energy harvesting system."
+        },
+        {
+            "id": 3,
+            "name": "Zenith Zephry",
+            "description": "Building a futuristic flying car prototype.",
+            "status": "Active"
+        },
+        {
+            "id": 4,
+            "name": "Quantum Quorum",
+            "description": "A quantum computing research project aimed at solving complex algorithms.",
+            "status": "Active"
+        },
+        {
+            "id": 5,
+            "name": "Solar Symphony",
+            "description": "A large-scale solar energy farm providing renewable energy to an entire city.",
+            "status": "Active"
+        },
+        {
+            "id": 6,
+            "name": "Eco Enclave",
+            "description": "Constructing an off-the-grid eco-village using sustainable materials and practices.",
+            "status": "Active"
+        },
+        {
+            "id": 7,
+            "name": "BioBloom",
+            "description": "Researching and cultivating genetically engineered super plants for urban farming.",
+            "status": "Active"
+        },
+        {
+            "id": 8,
+            "name": "Spectra Shield",
+            "description": "Developing an advanced cybersecurity system for critical infrastructure.",
+            "status": "Active"
+        },
+        {
+            "id": 9,
+            "name": "VirtuaLoom",
+            "description": "Creating a cutting-edge virtual reality experience for remote education.",
+            "status": "Active"
+        },
+
+        {
+            "id": 10,
+            "name": "Galactic Gateway",
+            "description": "Designing an interstellar travel portal for a future space tourism venture."
+        }
+    ]
+}
